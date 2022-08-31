@@ -1,0 +1,180 @@
+header{font-family: 'Playfair Display';}
+.headb{
+    color: rgba(3, 169, 244, 1);
+    position: absolute;
+width: 71px;
+height: 19px;
+left: 315px;
+top: 71px;
+    font-size: 14px;
+}
+.head{
+    color: rgba(125, 125, 125, 1);
+    font-size: 14px;
+}
+body{font-family: 'Playfair Display';}
+#a{position: absolute;
+    width: 89px;
+    height: 19px;
+    left: 485px;
+    top: 71px;
+    
+}
+#b{
+    position: absolute;
+    width: 44px;
+    height: 19px;
+    left: 674px;
+    top: 71px;
+}
+#c{position: absolute;
+    width: 52px;
+    height: 19px;
+    left: 818px;
+    top: 71px;
+    
+}
+img[alt="a"]{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 148px;
+    top: 182px;
+}
+img[alt="b"]{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 633px;
+    top: 182px;
+}
+img[alt="c"]{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 147px;
+    top: 858px;
+}
+img[alt="d"]{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 633px;
+    top: 858px;
+}
+img[alt="e"]{
+    position: absolute;
+width: 165px;
+height: 60px;
+left: 0px;
+top: 0px;
+}
+.button{
+    position: absolute;
+    height: 19px;
+    left: 555px;
+    top: 1456px;
+}
+#bt{
+    position: absolute;
+    width: 68px;
+    height: 19px;
+    left: 49px;
+    top: 20px;
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: rgba(98, 98, 98, 1);
+}
+.sagolovok{font-size: 30px;
+    color: rgba(98, 98, 98, 1);
+}
+.text{font-size: 14px;
+    color: rgba(98, 98, 98, 1);
+}
+#s{position: absolute;
+    width: 408px;
+    height: 40px;
+    left: 148px;
+    top: 572px;
+}
+#f{position: absolute;
+    width: 379px;
+    height: 40px;
+    left: 633px;
+    top: 572px;
+}
+#g{
+    position: absolute;
+    width: 225px;
+    height: 40px;
+    left: 148px;
+    top: 1218px;
+}
+#h{position: absolute;
+    width: 324px;
+    height: 40px;
+    left: 633px;
+    top: 1218px;
+}
+#q{
+    position: absolute;
+width: 420px;
+height: 76px;
+left: 148px;
+top: 652px;
+}
+#w{position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 633px;
+    top: 652px;
+}
+#e{position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 148px;
+    top: 1298px;
+    
+}
+#r{position: absolute;
+    width: 420px;
+    height: 76px;
+    left: 633px;
+    top: 1298px;
+}
+.last{
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: rgba(180, 173, 158, 1);
+}
+#u{
+    position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 148px;
+    top: 524px;
+    }
+#j{position: absolute;
+    width: 64px;
+    height: 16px;
+    left: 633px;
+    top: 524px;
+}
+#n{position: absolute;
+    width: 86px;
+    height: 16px;
+    left: 148px;
+    top: 1170px;    
+}
+#m{position: absolute;
+    width: 86px;
+    height: 16px;
+    left: 633px;
+    top: 1170px;
+}
